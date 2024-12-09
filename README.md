@@ -26,7 +26,7 @@ I am a highly motivated and detail-oriented Full Stack Developer, recently gradu
 
 ## 🏆 Achievements
 
-- 🌟 In my Master’s program, Achieved a GPA of 6.7/7.0 and was honored with the Dean’s Commendation and Excellence Awards for outstanding academic achievements, demonstrating strong academic performance and commitment to continuous learning.
+- 🌟 In my Master’s program, achieved a GPA of 6.7/7.0 and was honored with the Dean’s Commendation and Excellence Awards for outstanding academic achievements, demonstrating strong academic performance and commitment to continuous learning.
 - 👨‍💻 Successfully built a full-stack e-commerce website using the MERN stack, Redux Toolkit, Node.js, Express, MongoDB, JWT, PayPal API, and CI/CD build pipelines with GitHub actions. This project demonstrated ability to integrate multiple technologies and create a dynamic, responsive platform.
 
 ## 📬 Get in Touch
