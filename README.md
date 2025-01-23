@@ -10,8 +10,9 @@ I am a highly motivated and detail-oriented Full Stack Developer, recently gradu
 
 ## My Projects
 
-- [BeautyStore](https://www.beautystore.party/): An ecommerce platformplatform for beauty products.
+- [BeautyStore](https://www.beautystore.party/): An ecommerce platform for beauty products.
 - [PersonalPortfolio](https://xinya-liu-portfolio.netlify.app/): A portfolio website for myself.
+- [RealEstateWebsite](http://houseseek.site/):A real estate application to manage property listings ect.
 
 ## Tech Stack
 
