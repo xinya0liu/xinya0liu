@@ -34,8 +34,7 @@ I am a highly motivated and detail-oriented Full Stack Developer, recently gradu
 ## 📬 Get in Touch
 
 - Connect with me on [Linkedin](https://www.linkedin.com/in/xinya-liu-740760121/)
-- Check out my [e-commerce platform](https://www.beautystore.party/)
 - Check out my [portfolio](https://xinya-liu-portfolio.netlify.app/)
-- Check out my [real estate website](http://houseseek.site/)
+
 
 Thanks for stopping by! Let’s connect and collaborate on exciting tech projects. 🚀
