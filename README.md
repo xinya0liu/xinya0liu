@@ -27,12 +27,14 @@ I am a highly motivated and detail-oriented Full Stack Developer, recently gradu
 ## 🏆 Achievements
 
 - 🌟 In my Master’s program, achieved a GPA of 6.7/7.0 and was honored with the Dean’s Commendation and Excellence Awards for outstanding academic achievements, demonstrating strong academic performance and commitment to continuous learning.
-- 👨‍💻 Successfully built a full-stack e-commerce website using the MERN stack, Redux Toolkit, Node.js, Express, MongoDB, JWT, PayPal API, and CI/CD build pipelines with GitHub actions. This project demonstrated ability to integrate multiple technologies and create a dynamic, responsive platform.
+- 👨‍💻 Successfully built a full-stack e-commerce website using the MERN stack, Redux Toolkit, Node.js, Express, MongoDB, JWT, PayPal API, and CI/CD build pipelines with GitHub actions. This project demonstrated the ability to integrate multiple technologies and create a dynamic, responsive platform.
+- 👨‍💻 Successfully built a real estate application using Django, PostgreSQL, and Bootstrap, designed to manage property listings, realtors, and contact inquiries.
 
 ## 📬 Get in Touch
 
 - Connect with me on [Linkedin](https://www.linkedin.com/in/xinya-liu-740760121/)
 - Check out my [e-commerce platform](https://www.beautystore.party/)
 - Check out my [portfolio](https://xinya-liu-portfolio.netlify.app/)
+- Check out my [real estate website](http://houseseek.site/)
 
 Thanks for stopping by! Let’s connect and collaborate on exciting tech projects. 🚀
